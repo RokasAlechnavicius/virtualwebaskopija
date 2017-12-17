@@ -2,9 +2,9 @@
 
 
 
-define('DB_NAME','wordpress');
-define('DB_USERNAME','wordpressuser');
-define('DB_PASSWORD','topkekas');
+define('DB_NAME','webas');
+define('DB_USERNAME','topkekas');
+define('DB_PASSWORD','topkekaspass');
 
 define('DB_SERVER','10.0.0.222');
 
